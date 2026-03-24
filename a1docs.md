@@ -12,6 +12,8 @@ My aesthetic goal for this project was to try and visualize what it feels like t
 
 ## Feedback
 
+The feedback I got did not match my intended aesthetic goals, but I think that some of the more general ideas persisted. I was told that the animation gave a very natural vibe with the even pulses. I was also told that the section of color presented flower imagery. It felt like the flower was growing from a seed, going up into the world, and then consuming you. The end feeling of being consumed does match my initial intention and I suppose the feeling of growth does too match some of what I was going for. It just has a more positive spin to it. I think that because the color red can symbolize so many things, people are bound to get different feelings from it overall. I am really happy with how it came out and was super happy to hear that the video overall was very much liked!
+
 ## Additional Notes
 
 For some reason, my computer can barely handle running WebGL in TheSchwartz. When I tried to do a screen recording of the program, it was super slow and lagged a ton. Additionally, the video clipped and was not a smooth animation at all. I decided to record what was displayed on my screen using my phone and a mirrored monitor to try and give the most authentic experience of the animation. 
