@@ -11,3 +11,7 @@ Coming into this assignment, I really wanted to play with what transformations a
 My aesthetic goal for this project was to try and visualize what it feels like to panic or overthink things. It starts with the shape appearing and slowly starting to pulse faster and faster which is to mimic hyperventilation or the idea of thoughts starting to race. Then it moves to a brief moment of calm when the circle moves up which mirrors this idea of a brief calm before the storm. Next, the circle starts to move more sporadically and begins to drag a trail of color behind it. The color starts more mild but slowly becomes redder and redder. This is meant to symbolize this idea of racing thoughts  that get darker or more dreadful (think of what people describe as spiraling).  Lastly, the racing white circles are replaced by a pulsing black circle on the red background. This demonstrates the idea of the final through that then truly consumes all else just how the animation ends with the black circle growing and taking over. 
 
 ## Feedback
+
+## Additional Notes
+
+For some reason, my computer can barely handle running WebGL in TheSchwartz. When I tried to do a screen recording of the program, it was super slow and lagged a ton. Additionally, the video clipped and was not a smooth animation at all. I decided to record what was displayed on my screen using my phone and a mirrored monitor to try and give the most authentic experience of the animation. 
