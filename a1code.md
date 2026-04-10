@@ -1,4 +1,4 @@
-# Assignment 1 - Shader Live Coding Code 
+# Assignment 2 - Shader Live Coding Code 
 
 ## Directions
 Copy and paste the corresponding code sections into TheSchwartz at each transition movement to display the next section of the animation (ensure you re-load the program to active the new code snippet)
