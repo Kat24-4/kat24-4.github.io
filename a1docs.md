@@ -1,4 +1,4 @@
-# Assignment 1 - Shader Live Coding Explanations
+# Assignment 2 - Shader Live Coding Explanations
 
 ## Technical 
 
