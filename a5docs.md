@@ -1,0 +1,9 @@
+# Assignment 5 - Particles
+
+## Explanation
+
+When we were first introduced to this project, all I could think about was bubbles. I really wanted to create bubbles in water. I started with circular particles and then looked into how to add a bubble like sheen and opacity. While looking, I found the Fresnel Shader effect. It is a way to calculate the relationship between the amount of reflection you see and the angle that you are looking at. This helped me get the slightly  translucent look with the darker edges that helps further portray bubbles. After getting that to work, I decided to add two levels of interaction. The first is the ability to change the background color. This was just because I thought it would be fun. I did choose to keep the options set to certain shades of blue. I did this to better match my goal aesthetic and to prevent people from picking colors that the bubbles blended in too much with. The second interaction is the ability to decide how many bubbles are produced. I think it’s interesting to see how different amounts of bubbles change the composition of the simulation. Similar to the color, I gave specific options for how few or many bubbles people could create. As I was testing, I found that if you set the value too high, it would crash the program. I didn’t want someone to get stuck because of this.
+
+## Feedback
+
+I shared my simulation with a good chunk of my friends. Each time, I asked what they thought the simulation was. Every time, I got some variation of bubbles in the water. For example, I heard “seltzer water machine”, “hot tub or jacuzzi”, and “aquarium bubble maker”. I was really pleased to hear that I was able to carry out my vision in a way that seemed pretty clear to others. I also got comments on how the bubble opacity with the thicker board was nice and how being able to change the background was a nice touch. 
